@@ -84,7 +84,7 @@
   <a href="https://linkedin.com/in/julio-ordonez-rimacuna" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
-  <a href="mailto:julio@gmail.com" target="_blank">
+  <a href="mailto:julioalejandro.ordonez@outlook.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="margin: 0 10px;" />
   </a>
 </div>
