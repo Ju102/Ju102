@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue" alt="Frontend" />
 
   <h4>⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" alt="Backend" />
 
   <h4>☁️ Cloud & DevOps</h4>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" alt="Cloud" />
