@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Julio+Ordo%C3%B1ez;Full+Stack+%26+Cloud+Developer;Frontend+|+React,+Angular,+Vue;Backend+|+.NET,+Spring+Boot;Cloud+|+AWS,+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Julio+Ordo%C3%B1ez;Full+Stack+%26+Cloud+Developer;Frontend+|+React,+Angular,+Vue;Backend+|+.NET,+Java+(Spring);Cloud+|+AWS,+Azure" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <p>
     <b>¡Hola! Soy Julio, un apasionado de la programación y el desarrollo de software.</b> 👨‍💻<br><br>
-    <em>Disfruto muchísimo creando proyectos desde cero, trasteando con código y buscando la mejor manera de resolver problemas complejos. Cuando no estoy picando código o montando arquitecturas en la nube, seguramente me encuentres explorando nuevas herramientas o estudiando para seguir creciendo profesionalmente. ¡Siéntete libre de explorar mis repositorios!</em>
+    <em>Me especializo en el diseño y desarrollo de aplicaciones Full Stack y arquitecturas cloud-native. Combino mi experiencia previa en consultoría corporativa con un enfoque centrado en la creación de soluciones escalables, eficientes y desplegadas en la nube. Cuando no estoy programando, me dedico a ampliar mi stack tecnológico y a preparar nuevas certificaciones oficiales. ¡Siéntete libre de explorar mis repositorios!</em>
   </p>
 </div>
 
@@ -19,9 +19,9 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🎓 Actualmente cursando un <b>Máster en Desarrollo Full Stack y Arquitecturas Cloud</b> en <b>Tajamar Tech</b>.</li>
-        <li>☁️ Apasionado por diseñar y construir soluciones escalables que integren el frontend, el backend y el despliegue en la nube.</li>
-        <li>🚀 Siempre en constante aprendizaje, buscando optimizar procesos y adoptar las mejores prácticas de desarrollo y arquitectura.</li>
+        <li>💼 <b>Experiencia corporativa:</b> Base sólida trabajando con código legado, bases de datos relacionales y arquitecturas MVC en consultoría.</li>
+        <li>🎓 <b>Formación y Certificaciones:</b> Especializado a través del Máster en Desarrollo Full Stack (Tajamar). MultiCloud Developer certificado oficialmente en <b>Azure</b> y <b>AWS</b>.</li>
+        <li>🚀 <b>Foco actual:</b> Desarrollando arquitecturas <i>cloud-native</i> (.NET + Angular) e integrando bases de datos NoSQL.</li>
       </ul>
     </td>
     <td width="30%" align="center">
