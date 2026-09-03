@@ -45,8 +45,7 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" alt="Cloud" />
 
   <h4>🗄️ Bases de Datos</h4>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Bases de Datos Relacionales y NoSQL" />
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" title="SQL Server" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" style="margin: 0 10px;" />
